@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+![blog-app-cover](https://github.com/akhil-s-kumar/React-todo-app/blob/master/Screenshots/Image.png?raw=true)
+
+# React ToDo App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
