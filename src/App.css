@@ -1,4 +1,4 @@
-.App {
+/*.App {
   text-align: center;
 }
 
@@ -35,4 +35,63 @@
   to {
     transform: rotate(360deg);
   }
+}*/
+
+.App{
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.App-logo{
+  margin-top: 100px;
+}
+
+.App-title{
+  color: white;
+}
+
+.App-additem{
+  color: white;
+}
+
+.Input-text{
+  width: 500px;
+  height: 35px;
+  border-radius: 10px;
+  outline-width: 0;
+  border-color: #ffffff;
+}
+
+.Input-text:focus{
+  outline-width: 0;
+  border-color: #61DBFB;
+}
+
+.add-btn{
+  margin-left: 10px;
+  height: 40px;
+  width: 100px;
+  background-color: #61DBFB;
+}
+
+.ul-style{
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-element{
+  background-color: white;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  border-radius: 10px;
+  padding-top: 15px;
+  margin-bottom: 15px;
+}
+
+.delete-btn{
+  margin-left: 200px;
+  background-color: red;
 }
